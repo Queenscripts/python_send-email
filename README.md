@@ -1,6 +1,6 @@
 # Sending Emails With Python
 
-!["Email Image"]("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCi2BOTyBN5Mbx7S2szLdKToz_SrpiHmq0Q&usqp=CAU")
+!["Email Image"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCi2BOTyBN5Mbx7S2szLdKToz_SrpiHmq0Q&usqp=CAU)
 
 ### Why is this topic important? 
 
